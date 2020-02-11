@@ -1,5 +1,5 @@
 package ZellerG;
-// @author diomarsillim
+// @author XBaybot
 
 public class ZellerG {
 
